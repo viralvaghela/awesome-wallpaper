@@ -2,5 +2,6 @@
 
 Awesome wallpapers for your device.
 
-![img1](screenshots/1.jpg)
+![img1](screenshots/screenshot.png)
+
 
