@@ -26,6 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   void getWallpapers() async {
+    //get KEY from https://www.pexels.com/api/
     var data = await http
         .get("https://api.pexels.com/v1/search?query=travelling", headers: {
       "Authorization":
